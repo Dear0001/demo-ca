@@ -2,7 +2,7 @@
 # /bin/*
 !bin/.gitkeep
 /crypto-config
-/fabric
+/fabric-ca
 # Ignore ledger files
 /ledger/*
 /ledger2/*
